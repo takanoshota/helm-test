@@ -1,1 +1,2 @@
-imageTag: 1.19.6 
+env: production
+imageTag: 1.15.8 
