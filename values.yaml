@@ -1,2 +1,2 @@
-env: production
-imageTag: 1.15.8 
+env: staging
+imageTag: 1.19.6 
